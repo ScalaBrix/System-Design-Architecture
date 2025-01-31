@@ -54,4 +54,6 @@ This architecture **delivers high performance, fault tolerance, and real-time ca
 
 🚀 **#Scalability #SystemDesign #RealTimeUpdates #Microservices #Innovation**  
 
-🚀 **Full article link: ** https://levelup.gitconnected.com/system-architecture-coding-contest-leaderboard-6819964459e0
+## 📖 Learn More  
+For an in-depth understanding of the system design, check out the full article:  
+[🚀 Scalable & Real-Time Coding Contest System Architecture](https://levelup.gitconnected.com/system-architecture-coding-contest-leaderboard-6819964459e0)  
