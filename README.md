@@ -1,4 +1,4 @@
-# System-Design-Architecture
+# System-Design-Architecture | Medium Complexity 
 
 
 # 🚀 Scalable & Real-Time Coding Contest Platform Architecture 💻⚡  
@@ -53,3 +53,5 @@ This architecture is **designed to efficiently handle large-scale coding contest
 This architecture **delivers high performance, fault tolerance, and real-time capabilities**, ensuring **seamless execution of large-scale coding contests**. With **event-driven microservices, optimized caching, and real-time leaderboard updates**, it provides a **scalable and efficient** solution for competitive programming platforms.  
 
 🚀 **#Scalability #SystemDesign #RealTimeUpdates #Microservices #Innovation**  
+
+🚀 **Full article link: ** https://levelup.gitconnected.com/system-architecture-coding-contest-leaderboard-6819964459e0
